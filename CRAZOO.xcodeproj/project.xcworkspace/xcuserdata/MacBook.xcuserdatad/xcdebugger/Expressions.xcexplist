@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CZViewController SettleAnimalPart:]:CZViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "direction">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CZViewController ExchangeAnimals:animal2:]:CZViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "animal2.indexX">
+            </PersistentString>
+            <PersistentString
+               value = "animal1.indexX">
+            </PersistentString>
+            <PersistentString
+               value = "animals[animal1.indexX][animal1.indexY].indexX">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CZViewController DumpPresentation]:CZViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "animals[0][p].animal">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CZViewController ResetImages]:CZViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "animalPartsImages[i][j]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
